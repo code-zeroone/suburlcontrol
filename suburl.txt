@@ -1,0 +1,3 @@
+mora=1
+subscene.best=1
+subdl=0
