@@ -1,3 +1,0 @@
-mora=False
-subscene.best=True
-subdl=False
