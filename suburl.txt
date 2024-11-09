@@ -1,4 +1,4 @@
 mora=True
 subscene.best=True
 subdl=True
-opensubtitles=True
+opensubtitles=False
